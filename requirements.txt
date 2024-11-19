@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+aiohttp
+boto3
+pyjwt
+websockets
